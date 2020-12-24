@@ -12,7 +12,7 @@
  ![](screenshots/voteradd.PNG)
  
  VOTERS DATABASE: all voters data base stored here
-![](screenshots/userdata.PNG)
+![](screenshots/usersdata.PNG)
  
  ADMIN DATABASE: 
  ![](screenshots/admindata.PNG)
